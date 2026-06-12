@@ -4,7 +4,7 @@ import java.util.Scanner;
 //  CUSTOMER FEEDBACK ANALYSIS SYSTEM
 //  Course  : Object Oriented Programming with Java
 //  College : Rungta International Skills University, Bhilai
-//  Author  : Divyansh | Guide: Mr. Soumik Karmakar
+//  Author  : Himanshu Sharma | Guide: Mr. Soumik Karmakar
 // ─────────────────────────────────────────────────────────────
 
 
